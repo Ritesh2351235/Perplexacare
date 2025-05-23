@@ -26,10 +26,30 @@ PerplexaCare is an AI-powered healthcare web application that provides trusted m
    # or
    yarn install
    ```
-2. Add your OpenAI API key to `.env.local`:
+2. Create a `.env.local` file in the root directory and fill in the following environment variables with your own values:
+   ```env
+   # OpenAI & Perplexity
+   OPENAI_API_KEY=your-openai-api-key
+   PERPLEXITY_API_KEY=your-perplexity-api-key
+   EXAMPLE_BASE_URL=https://your-base-url.com
+   EXAMPLE_MODEL_NAME=your-model-name
+   NEXT_PUBLIC_HEALTH_AGENT_API=https://your-health-agent-api.com
+
+   # Firebase (Client)
+   NEXT_PUBLIC_FIREBASE_API_KEY=your-firebase-api-key
+   NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-firebase-auth-domain
+   NEXT_PUBLIC_FIREBASE_PROJECT_ID=your-firebase-project-id
+   NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your-firebase-storage-bucket
+   NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your-firebase-messaging-sender-id
+   NEXT_PUBLIC_FIREBASE_APP_ID=your-firebase-app-id
+
+   # Firebase (Admin/Server)
+   FIREBASE_PROJECT_ID=your-firebase-project-id
+   FIREBASE_CLIENT_EMAIL=your-firebase-client-email
+   FIREBASE_PRIVATE_KEY=your-firebase-private-key
    ```
-   OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-   ```
+   > **Note:** Replace all placeholder values (e.g., `your-openai-api-key`) with your actual credentials.
+
 3. Run the development server:
    ```bash
    npm run dev
