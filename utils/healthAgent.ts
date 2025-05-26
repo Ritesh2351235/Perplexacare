@@ -22,7 +22,7 @@ export interface ConversationItem {
   timestamp: string;
 }
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_HEALTH_AGENT_API || 'https://8b8e-2405-201-d00e-603a-f1d4-e6ff-6d00-445e.ngrok-free.app';
+const API_BASE_URL = process.env.NEXT_PUBLIC_HEALTH_AGENT_API;
 
 export const healthAgentService = {
   // Send a query to the health agent
