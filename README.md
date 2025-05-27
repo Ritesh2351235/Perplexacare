@@ -2,6 +2,8 @@
 
 PerplexaCare is an AI-powered healthcare web application that provides trusted medical insights, symptom analysis, and personalized health guidance. Built with a focus on privacy, accuracy, and user experience, PerplexaCare leverages advanced AI (powered by Perplexity Sonar) to help users make informed decisions about their health.
 
+<img width="945" alt="Screenshot 2025-05-27 at 2 08 45 PM" src="https://github.com/user-attachments/assets/ef08068f-e311-4b42-9688-bd387cca7520" />
+
 ## Features
 
 - **AI Health Assistant**: 24/7 instant answers to your health questions.
