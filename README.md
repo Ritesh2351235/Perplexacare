@@ -18,6 +18,13 @@ PerplexaCare is an AI-powered healthcare web application that provides trusted m
 2. **AI Searches Trusted Sources**: Perplexity Sonar technology analyzes information from verified medical websites and journals.
 3. **Get Personalized Insights**: Receive clear, accurate answers tailored to your query, with sources cited for reference.
 
+
+## Agent Workflow
+
+
+![perplexity-final](https://github.com/user-attachments/assets/8987e7e7-87c4-4d75-95f5-daf55766bee3)
+
+
 ## Getting Started
 
 1. Clone the repository and install dependencies:
