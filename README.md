@@ -4,6 +4,13 @@ PerplexaCare is an AI-powered healthcare web application that provides trusted m
 
 <img width="945" alt="Screenshot 2025-05-27 at 2 08 45 PM" src="https://github.com/user-attachments/assets/ef08068f-e311-4b42-9688-bd387cca7520" />
 
+## 🔗 Repository Links
+
+**Frontend (Current Repository)**: AI Health Agent Next.JS app  
+**Backend**: [Perplexacare Backend Repository](https://github.com/Ritesh2351235/perplexacare-backend) - Node.js application
+
+> **Note**: This is the Frontend repository. For the complete application, you'll also need to set up the backend from the link above.
+
 ## Features
 
 - **AI Health Assistant**: 24/7 instant answers to your health questions.
